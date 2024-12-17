@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "amin1", "amin1\amin1.csproj", "{D4BCC5E8-E660-41C7-B9A8-63F3C9E007B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4BCC5E8-E660-41C7-B9A8-63F3C9E007B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4BCC5E8-E660-41C7-B9A8-63F3C9E007B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4BCC5E8-E660-41C7-B9A8-63F3C9E007B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4BCC5E8-E660-41C7-B9A8-63F3C9E007B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
